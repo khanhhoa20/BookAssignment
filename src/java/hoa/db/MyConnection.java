@@ -12,7 +12,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author PC
+ * @author PC khanh hoa
  */
 public class MyConnection implements Serializable{
     public static Connection getConnection() throws ClassNotFoundException, SQLException{
